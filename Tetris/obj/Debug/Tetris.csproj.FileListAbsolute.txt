@@ -1,0 +1,9 @@
+C:\Users\Letziray\Documents\Visual Studio 2013\Projects\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Letziray\Documents\Visual Studio 2013\Projects\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Letziray\Documents\Visual Studio 2013\Projects\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Letziray\Documents\Visual Studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Letziray\Documents\Visual Studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\Letziray\Documents\Visual Studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Letziray\Documents\Visual Studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\Letziray\Documents\Visual Studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Letziray\Documents\Visual Studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.pdb
